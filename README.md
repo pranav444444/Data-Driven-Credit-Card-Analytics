@@ -88,7 +88,7 @@ Data was first processed in **SQL** for structure and cleaning, and then connect
 - Bars in dual color represent **Female (Pink)** and **Male (Maroon)** contributions.
 
 📸 *Dashboard Preview:*  
-!<img width="1346" height="746" alt="image" src="https://github.com/user-attachments/assets/e0743978-60a5-420a-88cd-c09dfc78c4d6" />
+<img width="1346" height="746" alt="image" src="https://github.com/user-attachments/assets/e0743978-60a5-420a-88cd-c09dfc78c4d6" />
 
 
 ---
