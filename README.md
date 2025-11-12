@@ -6,8 +6,8 @@
 
 ## 📘 Project Overview
 
-This project visualizes **10,000+ credit card transaction records** using **Power BI**, enabling banks and financial analysts to monitor key performance indicators, customer demographics, and usage trends.  
-Data was first processed in **SQL** for structure and cleaning, and then connected to Power BI for visualization.
+This project visualizes 10,000+ credit card transaction records using Power BI, helping banks and financial analysts monitor key performance indicators, customer demographics, and usage trends.
+During this phase , I learned how to import data into **MySQL** and connect a **MySQL database** with **Power BI** for live visualization. This served as my beginner-level practical exposure to database integration and dashboard development.
 
 ---
 
